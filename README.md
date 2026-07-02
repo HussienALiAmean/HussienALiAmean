@@ -33,24 +33,36 @@ My work usually starts long before writing code. I enjoy understanding business 
 I believe good software is a balance between clean engineering and solving real business problems.
 
 ---
+#### I enjoy building products that combine:
 
-# What I'm Working On
+- Enterprise Architecture
+- Clean Architecture
+- Microservices
+- Cloud Computing
+- AI Integration
+- DevOps
+- Business Analysis
+
+---
+
+#### Current Focus
 
 - Enterprise SaaS Platforms
-- AI & Retrieval-Augmented Generation (RAG)
+- AI & RAG Integration
 - ASP.NET Core
 - Angular
-- Cloud Architecture
-- Distributed Systems
+- Azure Cloud
 - Microservices
-- Event-Driven Architecture
+- Kafka Event Streaming
+- Kubernetes
+- Docker
 - Technical Business Analysis
 
 ---
 
-# Technology Stack
+#### Tech Stack
 
-### Backend
+## Backend
 
 - ASP.NET Core
 - ASP.NET MVC
@@ -58,128 +70,205 @@ I believe good software is a balance between clean engineering and solving real 
 - Entity Framework Core
 - Dapper
 - LINQ
-- REST APIs
+- REST API
 - gRPC
 - SignalR
+- WebHooks
 
-### Frontend
+---
+
+## Frontend
 
 - Angular
-- Blazor
 - Angular Material
+- Blazor
 - MudBlazor
-- TypeScript
-- JavaScript
+- Telerik UI
 - HTML5
 - CSS3
 - Bootstrap
+- JavaScript
+- TypeScript
+- RxJS
+- NgRx
 
-### Databases
+---
+
+## Database
 
 - SQL Server
 - MongoDB
 - Redis
+- SSRS
+- SSIS
+- SSAS
 
-### Architecture
+---
+
+## Architecture
 
 - Clean Architecture
-- Domain-Driven Design (DDD)
+- DDD
 - CQRS
-- SOLID Principles
 - Repository Pattern
 - Unit of Work
-- Multi-Tenant Applications
+- SOLID
+- Design Patterns
+- Multi-Tenant Architecture
 - N-Tier Architecture
-- Event-Driven Systems
+- Event Driven Architecture
 
-### Cloud & DevOps
+---
 
-- Microsoft Azure
+## Cloud & DevOps
+
+- Azure
+- Azure Marketplace
+- Azure Blob Storage
 - Docker
 - Kubernetes
-- Azure DevOps
 - GitHub Actions
+- Azure DevOps
 - CI/CD
 
-### Messaging
+---
+
+## Messaging
 
 - Kafka
 - RabbitMQ
 
-### Security
+---
+
+## Security
 
 - JWT
 - OAuth2
 - OpenID Connect
+- Identity
 
 ---
 
-# Featured Projects
+## AI
 
-## Enterprise SaaS Platform
-
-A scalable multi-tenant SaaS platform built using ASP.NET Core, Angular, Microservices, Azure, and Kafka. Designed with Clean Architecture and CQRS to support high scalability and maintainability.
+- RAG
+- OpenAI Integration
+- Machine Learning Integration
+- AI Assistants
 
 ---
 
-## ERP Solution
+#### Featured Projects
 
-Enterprise Resource Planning system covering:
+## SaaS Platform
 
-- Human Resources
+✔ Multi-Tenant Architecture
+
+✔ AI Integration
+
+✔ RAG
+
+✔ Microservices
+
+✔ Kafka
+
+✔ Angular
+
+✔ ASP.NET Core
+
+---
+
+## ERP System
+
+Modules:
+
+- HR
 - Finance
 - Inventory
 - Procurement
 - Supply Chain
 
-Built with ASP.NET Core, Blazor, SQL Server, and Telerik UI.
+Technologies
+
+- ASP.NET Core
+- Blazor
+- SQL Server
+- Telerik UI
 
 ---
 
 ## Azure Marketplace SaaS Accelerator
 
-Implementation of Azure Marketplace SaaS Fulfillment APIs including subscription lifecycle, billing workflow, and cloud integration.
-
----
-
-## AI Assistant Platform
-
-Enterprise AI assistant using Retrieval-Augmented Generation (RAG), document processing, and modern AI services integrated with .NET applications.
+- Azure Marketplace
+- Fulfillment API
+- Subscription Management
+- Payment Integration
 
 ---
 
 ## E-Commerce Platform
 
-RESTful API and Angular frontend with secure authentication, payment integration, Clean Architecture, and scalable backend services.
+- ASP.NET Core API
+- Angular
+- Clean Architecture
+- JWT
+- SQL Server
 
 ---
 
-# Areas of Interest
+## Job Offer Platform
+
+- Recruitment System
+- Workflow Management
+- ASP.NET Core
+- Angular
+
+---
+
+####  What I Love Building
+
+✔ Enterprise Software
+
+✔ ERP Systems
+
+✔ SaaS Platforms
+
+✔ AI Solutions
+
+✔ REST APIs
+
+✔ Cloud Applications
+
+✔ High Performance Systems
+
+✔ Distributed Systems
+
+✔ Technical Architecture
+
+---
+
+## Professional Interests
 
 - Software Architecture
-- Enterprise Development
-- Cloud Computing
-- Artificial Intelligence
 - Business Analysis
 - Digital Transformation
-- Distributed Systems
-- High Performance Applications
+- Cloud Solutions
+- AI Engineering
+- Solution Design
+- Technical Leadership
 
 ---
 
-# Currently Learning
+## Currently Learning
 
-I'm currently exploring:
-
-- AI Agents
-- Model Context Protocol (MCP)
+- Advanced AI Agents
+- MCP
 - Azure AI Services
-- Advanced Kubernetes
-- Event-Driven Microservices
-- System Design at Scale
+- Kubernetes Production
+- Event Driven Systems
+- Distributed Architecture
 
 ---
-
 # Philosophy
 
 I enjoy building software that stays maintainable as teams and products grow.
