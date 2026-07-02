@@ -1,324 +1,382 @@
 <div align="center">
 
-# El Hussien Ali
+# 👋 Hi, I'm El Hussien Ali
 
-### Senior Software Engineer • Technical Business Analyst • System Analyst
+### Senior Software Engineer • Technical Business Analyst • System Analyst • Solution Designer
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Technical+Business+Analyst;ASP.NET+Core+%7C+Angular+%7C+Azure;Building+Enterprise+Software+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;Technical+Business+Analyst;System+Analyst+%26+Solution+Designer;ASP.NET+Core+%7C+Angular+%7C+Azure;AI+%26+RAG+Powered+Solutions;Enterprise+Software+Architect" />
 </p>
-Designing scalable enterprise software, SaaS platforms, ERP solutions, and cloud-native applications using the Microsoft ecosystem.
+
+Building scalable enterprise software, ERP systems, SaaS platforms, AI-powered applications, and cloud-native solutions using the Microsoft ecosystem.
 
 <p>
-  <a href="mailto:hussienaliamean1111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" />
-  </a>
-  <a href="https://linkedin.com/in/elhussienali">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/HussienALiAmean">
-    <img src="https://img.shields.io/github/followers/HussienALiAmean?style=flat-square" />
-  </a>
+<a href="mailto:hussienaliamean1111@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/elhussienali">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/HussienALiAmean">
+<img src="https://img.shields.io/github/followers/HussienALiAmean?style=for-the-badge"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# About Me
+#  Professional Summary
 
-I'm a Senior Software Engineer based in Cairo, Egypt.
+Senior Software Engineer with **6.5+ years of experience** designing and delivering enterprise-grade software solutions, ERP systems, SaaS platforms, cloud applications, and AI-powered products.
 
-Over the last several years I've been building enterprise software across different industries, including ERP systems, SaaS products, cloud platforms, and AI-powered applications.
+My expertise extends beyond software development into **Business Analysis, System Analysis, Solution Design, Digital Transformation, and Technical Leadership**.
 
-My work usually starts long before writing code. I enjoy understanding business requirements, discussing solutions with stakeholders, designing scalable architectures, and then implementing software that's maintainable, secure, and built to last.
-
-I believe good software is a balance between clean engineering and solving real business problems.
-
----
-#### I enjoy building products that combine:
-
-- Enterprise Architecture
-- Clean Architecture
-- Microservices
-- Cloud Computing
-- AI Integration
-- DevOps
-- Business Analysis
+I specialize in transforming business requirements into scalable technical solutions while ensuring maintainability, performance, security, and long-term business value.
 
 ---
 
-#### Current Focus
+#  Current Focus
 
-- Enterprise SaaS Platforms
-- AI & RAG Integration
-- ASP.NET Core
-- Angular
-- Azure Cloud
-- Microservices
-- Kafka Event Streaming
-- Kubernetes
-- Docker
-- Technical Business Analysis
+* Enterprise SaaS Platforms
+* AI & RAG Solutions
+* ASP.NET Core & Angular
+* Azure Cloud Architecture
+* Multi-Tenant Systems
+* Microservices & Event-Driven Architecture
+* Kafka & Distributed Systems
+* Technical Business Analysis
+* Requirements Engineering
+* Solution Design
+* DevOps & CI/CD
 
 ---
 
-#### Tech Stack
+#  Areas of Expertise
+
+### Software Engineering
+
+* Enterprise Application Development
+* SaaS Platforms
+* ERP Systems
+* REST APIs
+* Microservices
+* Cloud-Native Applications
+* High-Performance Systems
+
+### Business Analysis
+
+* Requirements Gathering
+* Stakeholder Management
+* Business Process Analysis
+* Functional Specifications
+* BRD / FRD / SRS
+* User Stories & Acceptance Criteria
+* Gap Analysis
+* BPMN Modeling
+* UAT Support
+
+### Solution Architecture
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* CQRS
+* Event-Driven Architecture
+* Multi-Tenant Architecture
+* N-Tier Architecture
+* Distributed Systems
+
+---
+
+# 🛠 Technology Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,python,js,ts,cpp"/>
+</p>
 
 ## Backend
 
-- ASP.NET Core
-- ASP.NET MVC
-- C#
-- Entity Framework Core
-- Dapper
-- LINQ
-- REST API
-- gRPC
-- SignalR
-- WebHooks
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
 
----
+* ASP.NET Core
+* ASP.NET MVC
+* Entity Framework Core
+* Dapper
+* LINQ
+* REST API
+* gRPC
+* SignalR
+* WebHooks
+* Hangfire
+* Serilog
+* Seq
 
 ## Frontend
 
-- Angular
-- Angular Material
-- Blazor
-- MudBlazor
-- Telerik UI
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- TypeScript
-- RxJS
-- NgRx
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap"/>
+</p>
 
----
+* Angular 19
+* Angular Material
+* Blazor
+* MudBlazor
+* Telerik UI
+* RxJS
+* NgRx
 
-## Database
+## Databases
 
-- SQL Server
-- MongoDB
-- Redis
-- SSRS
-- SSIS
-- SSAS
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis"/>
+</p>
 
----
-
-## Architecture
-
-- Clean Architecture
-- DDD
-- CQRS
-- Repository Pattern
-- Unit of Work
-- SOLID
-- Design Patterns
-- Multi-Tenant Architecture
-- N-Tier Architecture
-- Event Driven Architecture
-
----
+* SQL Server
+* MongoDB
+* Redis
+* SSRS
+* SSIS
+* SSAS
 
 ## Cloud & DevOps
 
-- Azure
-- Azure Marketplace
-- Azure Blob Storage
-- Docker
-- Kubernetes
-- GitHub Actions
-- Azure DevOps
-- CI/CD
+<p>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,github,git"/>
+</p>
 
----
+* Azure
+* Azure Marketplace
+* Azure Blob Storage
+* Azure DevOps
+* GitHub Actions
+* CI/CD Pipelines
 
 ## Messaging
 
-- Kafka
-- RabbitMQ
-
----
+* Kafka
+* RabbitMQ
 
 ## Security
 
-- JWT
-- OAuth2
-- OpenID Connect
-- Identity
+* JWT
+* OAuth2
+* OpenID Connect
+* Identity Server
+
+## AI & Intelligent Systems
+
+* OpenAI Integration
+* Retrieval-Augmented Generation (RAG)
+* AI Assistants
+* Machine Learning Integration
+* AI Agents
+* Python AI Services
 
 ---
 
-## AI
+#  Featured Projects
 
-- RAG
-- OpenAI Integration
-- Machine Learning Integration
-- AI Assistants
+##  VocaMind AI SaaS Platform
 
----
+**Role:** Senior Software Engineer & Technical Business Analyst
 
-#### Featured Projects
+Enterprise SaaS platform integrating AI services, RAG pipelines, and microservices architecture.
 
-## SaaS Platform
+### Highlights
 
-✔ Multi-Tenant Architecture
+* Multi-Tenant Architecture
+* AI & RAG Integration
+* Microservices
+* Kafka Messaging
+* Business Requirements Analysis
+* User Story Definition
+* Clean Architecture
 
-✔ AI Integration
+### Technologies
 
-✔ RAG
-
-✔ Microservices
-
-✔ Kafka
-
-✔ Angular
-
-✔ ASP.NET Core
+ASP.NET Core • Angular 19 • Azure • Kafka • CQRS • SQL Server
 
 ---
 
-## ERP System
+##  Enterprise ERP System
 
-Modules:
+**Role:** Senior Software Engineer
 
-- HR
-- Finance
-- Inventory
-- Procurement
-- Supply Chain
+ERP platform covering:
 
-Technologies
+* Human Resources
+* Finance
+* Inventory
+* Procurement
+* Supply Chain
 
-- ASP.NET Core
-- Blazor
-- SQL Server
-- Telerik UI
+### Technologies
 
----
-
-## Azure Marketplace SaaS Accelerator
-
-- Azure Marketplace
-- Fulfillment API
-- Subscription Management
-- Payment Integration
+ASP.NET Core • Blazor • SQL Server • Telerik UI • SSRS
 
 ---
 
-## E-Commerce Platform
+##  Azure Marketplace SaaS Accelerator
 
-- ASP.NET Core API
-- Angular
-- Clean Architecture
-- JWT
-- SQL Server
+**Role:** Senior Software Engineer
 
----
+Designed and implemented SaaS subscription and billing solutions integrated with Azure Marketplace.
 
-## Job Offer Platform
+### Highlights
 
-- Recruitment System
-- Workflow Management
-- ASP.NET Core
-- Angular
+* Azure Marketplace Integration
+* Fulfillment API
+* Subscription Lifecycle Management
+* Payment Workflow Integration
+* Multi-Tenant SaaS Architecture
 
 ---
 
-####  What I Love Building
+##  E-Commerce Platform
 
-✔ Enterprise Software
+Enterprise-grade online shopping platform with scalable APIs and secure authentication.
 
-✔ ERP Systems
+### Technologies
 
-✔ SaaS Platforms
-
-✔ AI Solutions
-
-✔ REST APIs
-
-✔ Cloud Applications
-
-✔ High Performance Systems
-
-✔ Distributed Systems
-
-✔ Technical Architecture
+ASP.NET Core API • Angular • SQL Server • JWT • Clean Architecture
 
 ---
 
-## Professional Interests
+##  Recruitment & Job Offer Platform
 
-- Software Architecture
-- Business Analysis
-- Digital Transformation
-- Cloud Solutions
-- AI Engineering
-- Solution Design
-- Technical Leadership
+Designed and implemented recruitment workflow automation and candidate management solutions.
+
+### Technologies
+
+ASP.NET Core • Angular • SQL Server • Repository Pattern
 
 ---
 
-## Currently Learning
+#  Career Highlights
 
-- Advanced AI Agents
-- MCP
-- Azure AI Services
-- Kubernetes Production
-- Event Driven Systems
-- Distributed Architecture
+* 6.5+ Years of Professional Experience
+
+* Enterprise ERP Development
+
+* SaaS Platform Architecture
+
+* Azure Marketplace Solutions
+
+* AI & RAG Integration
+
+* Technical Business Analysis
+
+* Requirements Engineering
+
+* Solution Design
+
+* Cloud Architecture
+
+* Microservices
+
+* Event-Driven Systems
+
+* Team Mentorship
+
+* Agile Delivery
 
 ---
-# Philosophy
 
-I enjoy building software that stays maintainable as teams and products grow.
+#  Professional Interests
 
-My focus isn't only on delivering features, but on creating systems that are reliable, scalable, and easy for other developers to understand and extend.
+* Software Architecture
+* Enterprise Systems
+* Technical Leadership
+* Digital Transformation
+* Cloud Computing
+* AI Engineering
+* Business Analysis
+* Product Development
+* Distributed Systems
 
 ---
 
-# GitHub Statistics
+#  Currently Learning
+
+* AI Agents
+* Model Context Protocol (MCP)
+* Azure AI Foundry
+* Semantic Kernel
+* Agentic Workflows
+* Advanced RAG Pipelines
+* Kubernetes at Scale
+* Distributed Event Streaming
+* Cloud-Native Architecture
+
+---
+
+#  GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HussienALiAmean&theme=github-dark"/>
 </p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=HussienALiAmean&theme=transparent&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,docker,kubernetes,redis,mongodb,git,github,vscode,visualstudio"/>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HussienALiAmean&style=for-the-badge"/>
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,angular,ts,js,html,css,azure,docker,kubernetes,redis,mongodb,postgres,git,github,linux,vscode"/>
-</p>
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HussienALiAmean&hide_border=true&theme=transparent"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HussienALiAmean&theme=transparent&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HussienALiAmean&show_icons=true&theme=transparent"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienALiAmean&layout=compact&theme=transparent"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,angular,react,azure,docker,kubernetes,mongodb,redis,git,github,vscode,visualstudio"/>
 </p>
 
 ---
 
-# Connect With Me
+#  Education
 
-- 📧 **Email**  
-  hussienaliamean1111@gmail.com
+**Bachelor of Computer Science & Information**
 
-- 💼 **LinkedIn**  
-  https://linkedin.com/in/elhussienali
+Assiut University – Information Technology Department
 
-- 💻 **GitHub**  
-  https://github.com/HussienALiAmean
+GPA: Very Good
+
+---
+
+#  Connect With Me
+
+ **Email**
+[hussienaliamean1111@gmail.com](mailto:hussienaliamean1111@gmail.com)
+
+ **LinkedIn**
+linkedin.com/in/elhussienali
+
+ **GitHub**
+github.com/HussienALiAmean
+
+ Cairo, Egypt
+
+---
+
+#  Philosophy
+
+> Great software is not defined by the amount of code written, but by the business problems it solves, the value it creates, and how effectively it scales with growth.
 
 ---
 
 <div align="center">
 
-*"Great software isn't measured by the amount of code written, but by the problems it solves."*
+### Thanks for visiting my profile 
+
+Building technology that empowers businesses, teams, and people.
 
 </div>
