@@ -3,7 +3,9 @@
 # El Hussien Ali
 
 ### Senior Software Engineer • Technical Business Analyst • System Analyst
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Technical+Business+Analyst;ASP.NET+Core+%7C+Angular+%7C+Azure;Building+Enterprise+Software+Solutions" />
+</p>
 Designing scalable enterprise software, SaaS platforms, ERP solutions, and cloud-native applications using the Microsoft ecosystem.
 
 <p>
@@ -280,13 +282,20 @@ My focus isn't only on delivering features, but on creating systems that are rel
 # GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussienALiAmean&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussienALiAmean&layout=compact&hide_border=true&theme=transparent"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HussienALiAmean&theme=github-dark"/>
 </p>
-
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HussienALiAmean&theme=transparent&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,docker,kubernetes,redis,mongodb,git,github,vscode,visualstudio"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HussienALiAmean&style=for-the-badge"/>
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,angular,ts,js,html,css,azure,docker,kubernetes,redis,mongodb,postgres,git,github,linux,vscode"/>
+</p>
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussienALiAmean&hide_border=true&theme=transparent"/>
